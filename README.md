@@ -3,7 +3,7 @@ Predictive Maintenance for FWA Equipment
 # 🎯 Objective:
 Use AI to predict failures or degradation of FWA devices (like CPEs, antennas, small cells) based on sensor and operational data.
 
-This kind of model would help telecom companies schedule preventive maintenance — before customers experience outages!
+This model would help telecom companies schedule preventive maintenance before customers experience outages!
 
 # 📋 Dataset Description:
 
